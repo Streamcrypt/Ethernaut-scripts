@@ -1,4 +1,3 @@
-````markdown
 # Ethernaut Scripts
 
 ## Description
